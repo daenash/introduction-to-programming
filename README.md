@@ -13,4 +13,4 @@ Ebben a repositoryban a programozás alapjainak elsajátításához szükséges 
 
 Tartalom:
 
-- **[Alapok I.](/basics/first.py)** _(Típusok, Műveletek, Elágazások)_
+- **[Alapok I.](/basics/first.py)** _(Típusok, Műveletek, Elágazások)_ - [Feladatok](/feladatok/feladatok_1.md)
