@@ -43,3 +43,68 @@ _Példa output_:
 >> Johnny kreditindexe 2.4
 >> Johnny ösztöndíja 11500 Forint
 ```
+
+---
+
+**4.** Stephen egy gazdag családnak dolgozik a vadnyugaton, amikor éppen vendégek érkeznek. Mindegyiküket a nekik illően fogadja. Vannak köztük fehérek, feketék, vannak akik lovon érkeznek, vannak akik gyalog, és vannak akiket ismer és vannak akiket nem. Vannak köztük férfiak és nők is.
+
+_Példa input_:
+
+```py
+name = "Calvin"
+is_man = True
+is_white = True
+is_known = True
+is_arrived_on_horse = True
+```
+
+Az érkezőkkel az alábbi módon viselkedik:
+
+Először köszön:
+
+- Ha fehér az illető de nem ismeri, akkor azt mondja:\
+  `Üdvözlöm, uram!`\
+  (Ez esetben a vendég egy férfi, de ha nő, akkor az uram helyett hölgyemmel köszönti)
+- Ha fehér az illető és ismeri, akkor azt mondja:\
+  `Szervusz, Calvin!`\
+  (Ez esetben az érkezőt Calvinnek hívják)
+- Ha fekete az illető akkor **nem** köszön!
+
+Utána az utukról érdeklődik:
+
+- Ha fehér az illető, és nem ismeri:\
+  `Jól utazott?`
+- Ha fehér az illető és ismeri:\
+  `Merre voltatok eddig?`
+- Ha fekete az illető és nem lovon érkezett:\
+  `Elfáradtál félkegyelmű?`
+- Ha fekete az illető és lovon érkezett:\
+  `Ki az a nigger azon a lovon?`
+
+(Próbáljuk meg szövegösszefűzésekkel megoldani a feladatot, hogy a végén csak **1** darab print utasításunk legyen)
+
+_Példa output_:
+
+```
+>> Szervusz, Calvin! Merre voltatok eddig?
+...
+>> Üdvözlöm, uram! Jól utazott?
+...
+>> Ki az a nigger azon a lovon?
+```
+
+---
+
+**5.** Barnabás és Dénes ugyan nem szoktak, de ma úgy döntöttek elmennek piálgatni munka után. Tudjuk, hogy egy korsó sör nagyjából _480 forint_, egy vice házmester pedig _700 forint_ a körúti kocsmákban. Dénes _1 sört fél óra alatt_ iszik meg, Barnabás _1 fröccsöt 15 perc alatt_ iszik meg. Amikor valakinek elfogyott a piája egyből vett egy újat.
+
+- **a)** Mennyi pénzt ittak el ha pontosan 3 órát és 24 percet piálgattak?
+- **b)** Mennyi söre és fröccse maradt deciliterben a srácoknak az este végére amit el kellett kérniük műanyag pohárba?
+- **c)** Mennyit kellett volna még maradniuk, hogy legalább valamelyikük műanyag pohár nélkül indulhasson el?
+
+_Példa output_:
+
+```
+>> Barna és Dénes 11980 forintot ittak el
+>> Maradt 2 dl fröccs és 1 dl sör
+>> Még 6 percet kellett volna maradniuk és mindketten pohár nélkül indulhattak volna el
+```
