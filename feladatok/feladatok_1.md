@@ -108,3 +108,44 @@ _Példa output_:
 >> Maradt 2 dl fröccs és 1 dl sör
 >> Még 6 percet kellett volna maradniuk és mindketten pohár nélkül indulhattak volna el
 ```
+
+---
+
+**6.** Adott egy évszám, mondjuk meg róla, hogy szökőév-e
+
+_(A Szökőévek a következők: minden néggyel osztható év, kivéve a százzal is oszthatókat. Szökőévek viszont a 400-zal osztható évek. Vagyis a századfordulók évei közül csak azok szökőévek, amelyek 400-zal is oszthatók._
+
+_Példa output_:
+
+```
+>> 1988 szökőév
+...
+>> 2000 nem szökőév
+```
+
+---
+
+**7.** Zsuzsi szeret lottózni, de ritkán szokott nyerni. Számoljuk ki hány százalék esélye van nyerni a lottón, ha 99 számból 5-öt kell eltalálnia a főnyereményhez.
+
+_Példa output_:
+
+```
+>> Petinek 0,00000001165124% esélye van megnyerni az ötös lottót
+```
+
+---
+
+**8.** Ádám szeretne elköltözni otthonról. Mennyi pénzre van kb szüksége egy évre, ha:
+
+- Az albérlet egy hónapra 160.000 forint
+- Egy havi diákbérlet 3500 forint
+- A havi kondibérlet 9500 forint
+- Hetente 5-ször jár kondizni és minden edzés után iszik egy fehérje turmixot. Egy fehérjés doboza 50 turmixra elég, és egy doboz fehérje 8000 forint
+- Naponta nagyjából 3000 forintból eszik
+- Hetente elmegy piálni kb 5000 forintért
+
+_Példa output_:
+
+```
+>> Ádámnak 3479000 forintra van szüksége
+```
