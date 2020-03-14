@@ -15,4 +15,4 @@ Tartalom:
 
 - **[Alapok I.](/basics/first.py)** _(Típusok, Műveletek, Elágazások)_ - [Feladatok](/feladatok/feladatok_1.md)
 - **[Alapok II.](/basics/second.py)** _(Listák, For-ciklusok)_ - [Feladatok](/feladatok/feladatok_2.md)
-- **[Alapok III.](/basics/second.py)** _(Algoritmizálás, while-ciklusok)_ - [Feladatok](/feladatok/feladatok_3.md)
+- **[Alapok III.](/basics/third.py)** _(Algoritmizálás, while-ciklusok)_ - [Feladatok](/feladatok/feladatok_3.md)
