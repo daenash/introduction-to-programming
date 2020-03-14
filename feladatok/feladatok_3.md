@@ -71,7 +71,7 @@ _Példa output_:
 
 ---
 
-**5.** Add meg az első k darab tökéletes számot! k ne legyen olyan nagy, mert évekig fogunk a gép előtt ülni 👨‍🔧
+**6.** Add meg az első k darab tökéletes számot! ( `k <= 4`  mert évekig fogunk a gép előtt ülni 👨‍🔧)
 
 _( Tökéletes számnak nevezzük azokat a természetes számokat, amelyek megegyeznek az önmaguknál kisebb osztóik összegével. pl.: `6`, nála kisebb osztói -> `[1,2,3]` )_
 
