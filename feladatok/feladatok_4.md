@@ -38,8 +38,9 @@ Adott egy étterem, ahol feljegyezték az elmúlt időszak rendeléseit és azok
 1. Mennyi a cég bevétele?
 2. Hány kiszállításos rendelés volt?
 3. Mennyi az étterem átlag értékelése?
-4. Hányan kérték több salátával a rendelésüket? (`"note": "több salátával"`)
-5. Melyik típusú rendelésből volt a legtöbb?
-6. A kiszállításos rendelések után a futárok a rendelés árának 15%-át bónuszként megkapják, ha az értékelésük 4 vagy annál több. Mennyi bónuszt kaptak a futárok?
-7. Melyik kerületekbe hány-hány kiszállítást kellett végezni?
-8. Kik a visszajáró vendégek? (legalább kétszer rendeltek) Hányszor rendeltek külön külön és mennyit pénzt hagytak már az étteremnél?
+4. Mi az azonosítója azon helyben elfogyaszott rendelésnek, amelyik a legtöbbe került?
+5. Hányan kérték több salátával a rendelésüket? (`"note": "több salátával"`)
+6. Melyik típusú rendelésből volt a legtöbb?
+7. A kiszállításos rendelések után a futárok a rendelés árának 15%-át bónuszként megkapják, ha az értékelésük 4 vagy annál több. Mennyi bónuszt kaptak a futárok?
+8. Melyik kerületekbe hány-hány kiszállítást kellett végezni?
+9. Kik a visszajáró vendégek? (legalább kétszer rendeltek) Hányszor rendeltek külön külön és mennyit pénzt hagytak már az étteremnél?
